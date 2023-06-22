@@ -28,6 +28,7 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
+		h2
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
